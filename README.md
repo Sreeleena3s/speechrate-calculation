@@ -28,6 +28,5 @@ ii.	Print the calculated speech rate in words per minute (WPM).
 iii.	Reset the start_time to the current time.
 iv.	Reset the word_count to zero.
 v.	The loop continues indefinitely until the audio stream is stopped manually.
-Now, if you want to change the Usage Example:
-Here’s an example of using the TTS code to convert text to speech:
+
 
